@@ -3,12 +3,14 @@
 		"snapshot": {
 			"NEXUS_VERSION": "nexus 3",
 			"NEXUS_URL": "http://34.71.212.99:32000/repository/devops/",
-			"NEXUS_REPOSITORY": "devops"
+			"NEXUS_REPOSITORY": "devops",
+			
 		},
 		"prod": {
 			"NEXUS_VERSION": "nexus 3",
 			"NEXUS_URL": "http://34.71.212.99:32000/repository/prod/",
-			"NEXUS_REPOSITORY": "prod"
+			"NEXUS_REPOSITORY": "prod",
+			"NEXUS_CREDENTIAL_ID": "nexuscreds"
 		}
 	},
 	"sonar": {
