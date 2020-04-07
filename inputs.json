@@ -2,16 +2,16 @@
 	"nexus": {
 		"snapshot": {
 			"NEXUS_VERSION": "nexus 3",
-			"NEXUS_URL": "http://34.71.121.106:32000/repository/devops/",
+			"NEXUS_URL": "http://34.71.212.99:32000/repository/devops/",
 			"NEXUS_REPOSITORY": "devops"
 		},
 		"prod": {
 			"NEXUS_VERSION": "nexus 3",
-			"NEXUS_URL": "http://34.71.121.106:32000/repository/prod/",
+			"NEXUS_URL": "http://34.71.212.99:32000/repository/prod/",
 			"NEXUS_REPOSITORY": "prod"
 		}
 	},
 	"sonar": {
-		"sonar_url": "http://10.142.0.2:32001/"
+		"sonar_url": "http://34.73.223.37:32001/"
 	}
 }
