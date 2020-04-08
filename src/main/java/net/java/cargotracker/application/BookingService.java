@@ -8,6 +8,7 @@ import net.java.cargotracker.domain.model.location.UnLocode;
 
 /**
  * Cargo booking service.
+ * adding another line
  */
 public interface BookingService {
 
